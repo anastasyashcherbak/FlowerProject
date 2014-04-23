@@ -14,5 +14,6 @@
 ![Alt text](flowers_uml.PNG)
 
 # Автори #
-Четверик Валерія https://gist.github.com/LeraLeraChetveryk
+=)
+LeraLeraChetveryk
 Щербак Анастасія
