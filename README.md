@@ -15,5 +15,5 @@
 
 # Автори #
 Роботу вмконали студентки групи КМ-12:                                                                                   
-[Четверик Валерия](https://github.com/LeraLeraChetveryk.com)                                                                    
-[Щербак Анастасия](https://github.com/anastasyashcherbak.com)                                                                   
+[Четверик Валерия](https://github.com/LeraLeraChetveryk)                                                                    
+[Щербак Анастасия](https://github.com/anastasyashcherbak)                                                                   
