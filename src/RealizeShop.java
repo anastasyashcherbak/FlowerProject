@@ -2,7 +2,7 @@ import java.util.Vector;
 
 public class RealizeShop {
 
-  private string name;
+  private String name;
 
   private Arraylist<flowerapplication> flowers;
 
