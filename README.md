@@ -15,5 +15,5 @@
 
 # Автори #
 Группа КМ-12
-[Валерия Четверик](https://github.com/LeraLeraChetveryk) 
+[Валерия Четверик]
 <https://github.com/anastasyashcherbak>
