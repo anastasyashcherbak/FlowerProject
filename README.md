@@ -15,4 +15,4 @@
 
 # Автори #
 <LeraLeraChetveryk>
-Щербак Анастасія
+<https://github.com/anastasyashcherbak>
