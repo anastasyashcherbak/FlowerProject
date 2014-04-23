@@ -14,6 +14,5 @@
 ![Alt text](flowers_uml.PNG)
 
 # Автори #
-=)
-LeraLeraChetveryk
+<LeraLeraChetveryk>
 Щербак Анастасія
