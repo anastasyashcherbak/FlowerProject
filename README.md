@@ -15,5 +15,5 @@
 
 # Автори #
 Группа КМ-12
-[Четверик Валерия](https://github.com/LeraLeraChetveryk) 
-[Щербак Анастасия](https://github.com/anastasyashcherbak)
+[Четверик Валерия](https://github.com/LeraLeraChetveryk)< >< >
+[Щербак Анастасия](https://github.com/anastasyashcherbak)< >< >
