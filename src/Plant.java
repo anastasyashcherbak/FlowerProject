@@ -1,6 +1,6 @@
 public class Plant {
 
-  private string name;
+  private String name;
 
   public Integer newAttr;
 
