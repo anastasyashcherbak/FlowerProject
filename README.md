@@ -14,5 +14,6 @@
 ![Alt text](flowers_uml.PNG)
 
 # Автори #
-<LeraLeraChetveryk>
-<anastasyashcherbak>
+Группа КМ-12
+Валерия Четверик [ссылка](https://github.com/LeraLeraChetveryk) 
+<https://github.com/anastasyashcherbak>
