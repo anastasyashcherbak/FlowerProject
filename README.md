@@ -14,6 +14,6 @@
 ![Alt text](flowers_uml.PNG)
 
 # Автори #
-Роботу вмконали студентки групи КМ-12:                                                                                   
+Роботу виконали студентки групи КМ-12:                                                                                   
 [Четверик Валерія](https://github.com/LeraLeraChetveryk)                                                                    
 [Щербак Анастасія](https://github.com/anastasyashcherbak)                                                                   
