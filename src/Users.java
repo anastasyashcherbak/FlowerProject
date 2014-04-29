@@ -1,22 +1,56 @@
-import java.util.Vector;
+public class User {
+    private String password;
+    private String login;
 
-public class Users {
+    public User(String login, String password){
+        this.password = password;
+        this.login = login;
+    }
 
-  private string login;
+    /**
+     * @return the password
+     */
+    public String getPassword() {
+        return password;
+    }
 
-  private string password;
+    /**
+     * @param password the password to set
+     */
+    public void setPassword(String password) {
+        this.password = password;
+    }
 
-  private FlowerMagazinShop shop;
+    /**
+     * @return the login
+     */
+    public String getLogin() {
+        return login;
+    }
 
-    public Vector  myKalendar;
-    public Vector  myFlowerMagazinShop;
-        public Vector  myUsersCalendar;
-    public Vector  myUsersCalendar;
+    /**
+     * @param login the login to set
+     */
+    public void setLogin(String login) {
+        this.login = login;
+    }
 
-  private void User( login,  password) {
-  }
+    @Override
+    public int hashCode() {
+        int hash = 7;
+        hash = 73 * hash + (this.password != null ? this.password.hashCode() : 0);
+        hash = 73 * hash + (this.login != null ? this.login.hashCode() : 0);
+        return hash;
+    }
 
-  public void Autorizate() {
-  }
-
+     @Override
+     public boolean equals(Object obj){
+        if(this == obj)
+            return true;
+        if (!(obj instanceof User))
+                    return false;
+        User user = (User)obj;
+        return ((login == null ? user.login == null : login.equals(user.login)) 
+                && (password == null ? user.password == null : password.equals(user.password)));
+    }
 }
