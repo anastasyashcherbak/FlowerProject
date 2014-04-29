@@ -1,7 +1,4 @@
 public interface Goods {
-
-  public void Setprice( price);
-
-  private void getprice();
-
+    public void setPrice(Integer price);
+    public Integer getPrice();
 }
