@@ -1,14 +1,18 @@
 public class Plant {
+    protected String name;
 
-  private String name;
+    /**
+     * @return the name
+     */
+    public String getName() {
+        return name;
+    }
 
-  public Integer newAttr;
-
-  
-  public void Setname( name) {
-  }
-
-  private void getname() {
-  }
+    /**
+     * @param name the name to set
+     */
+    public void setName(String name) {
+        this.name = name;
+    }
 
 }
