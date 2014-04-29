@@ -12,9 +12,33 @@ public class FlowerMagazinShop {
     public Vector  myDate;
     public Vector  myFlowerSet;
     public Vector  myRealizeShop;
-    public Vector  myFlowerSet;
+
 
   private void Searchshop( application) {
   }
 
+ public FlowerMagazineShop(){
+        users = new ArrayList<User>();
+    }
+
+    public void addUser(User user){
+        users.add(user);
+    }
+
+    public User searchUser(User user) throws Exception{
+        User searchedUser = null;
+
+        for (User savedUser : users){
+            if (savedUser.equals(user)){
+                searchedUser = savedUser;
+                break;
+            }
+        }
+
+        if (null == searchedUser){
+            throw new UserNotFoundException("User not contained");
+        }
+
+        return searchedUser;
+    }
 }
