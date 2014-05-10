@@ -1,23 +1,16 @@
-import java.util.Vector;
+/*
+ * To change this template, choose Tools | Templates
+ * and open the template in the editor.
+ */
 
-public class FlowerMagazinShop {
-
-  public arraylist<realizeshop> shops;
-
-  public arraylist<users> Users;
-
-  public FlowerSet Flowers;
-
-    public Vector  myUsers;
-    public Vector  myDate;
-    public Vector  myFlowerSet;
-    public Vector  myRealizeShop;
+import java.util.ArrayList;
 
 
-  private void Searchshop( application) {
-  }
+public class FlowerMagazineShop {
+    private ArrayList<User> users;
+    public ArrayList<RealizeShop> shops;
 
- public FlowerMagazineShop(){
+    public FlowerMagazineShop(){
         users = new ArrayList<User>();
     }
 

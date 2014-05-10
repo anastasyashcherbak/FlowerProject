@@ -1,9 +1,4 @@
-import java.util.Vector;
 
-public class UserHolidayday {
-
-  private string Userdescription;
-
-    public Vector  myDate;
-
+public class UserHolidayDay extends Date{
+  private String UserDescription;
 }

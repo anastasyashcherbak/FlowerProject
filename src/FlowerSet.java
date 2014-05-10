@@ -1,17 +1,10 @@
-import java.util.Vector;
+import java.util.Set;
 
 public class FlowerSet {
 
-  private set<string> flowers;
+  private Set<String> flowers;
 
-    public Vector  myFlower;
-    public Vector  myRealizeShop;
-      public Vector  myFlower;
-    public Vector  myFlower;
-    public Vector  myFlower;
-    public Vector  myFlowerMagazinShop;
-
-  public void containflower( flower) {
+  public void containflower(Flower flower) {
   }
 
 }

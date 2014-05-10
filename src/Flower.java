@@ -1,17 +1,13 @@
-import java.util.Vector;
+/*
+ * To change this template, choose Tools | Templates
+ * and open the template in the editor.
+ */
 
-public class Flower extends Plant, Plant implements Goods {
 
-  protected Integer price;
+public class Flower extends Plant implements Goods{
+    protected Integer price;
 
-    public Vector  myFlowerSet;
-    public Vector  myPlant;
-    public Vector  myFlowerApplication;
-
-  public void Flower( name,  price) {
-  }
-
-  public void setPrice(Integer price) {
+    public void setPrice(Integer price) {
         if (price >= 0)
             this.price = price;
         else

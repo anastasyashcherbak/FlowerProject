@@ -1,12 +1,5 @@
-import java.util.Vector;
+import java.util.ArrayList;
 
 public class UsersCalendar {
-
-  public arraylist<date> days;
-
-    public Vector  myUsers;
-    public Vector  myUsers;
-    public Vector  myDate;
-    public Vector  myDate;
-
+  public ArrayList<Date> days;
 }

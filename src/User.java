@@ -1,6 +1,16 @@
+/*
+ * To change this template, choose Tools | Templates
+ * and open the template in the editor.
+ */
+
+
 public class User {
     private String password;
     private String login;
+
+    public User(){
+
+    }
 
     public User(String login, String password){
         this.password = password;

@@ -1,13 +1,6 @@
-import java.util.Vector;
+import java.util.ArrayList;
 
 public class RealizeShop {
-
   private String name;
-
-  private Arraylist<flowerapplication> flowers;
-
-    public Vector  myFlowerSet;
-    public Vector  myFlowerMagazinShop;
-    public Vector  myFlowerApplication;
-
+  private ArrayList<FlowerApplication> flowers;
 }

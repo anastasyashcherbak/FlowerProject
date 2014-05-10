@@ -1,10 +1,5 @@
-import java.util.Vector;
+import java.util.ArrayList;
 
 public class UsersApplication {
-
-  private arraylist<> application;
-
-    public Vector  myFlowerApplication;
-    public Vector  myDate;
-
+  private ArrayList<FlowerApplication> applications;
 }

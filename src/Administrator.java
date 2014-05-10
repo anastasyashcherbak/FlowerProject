@@ -1,21 +1,17 @@
-import java.util.Vector;
+import java.util.ArrayList;
 
-public class Administrator {
+public class Administrator extends User{
 
-  public ;
-
-    public Vector  myUsers;
-
-  public void adduser( user) {
+  public void addUser(User user) {
   }
 
-  public void addshop( shop) {
+  public void addShop(RealizeShop shop) {
   }
 
-  public void removeuser( user) {
+  public void removeUser(User user) {
   }
 
-  public void removeshop( shop) {
+  public void removeShop(RealizeShop shop) {
   }
 
 }
